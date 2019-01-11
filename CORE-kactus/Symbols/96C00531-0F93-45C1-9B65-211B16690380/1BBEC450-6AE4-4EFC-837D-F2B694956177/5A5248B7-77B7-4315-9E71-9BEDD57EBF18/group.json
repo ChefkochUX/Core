@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A5248B7-77B7-4315-9E71-9BEDD57EBF18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 210,
+    "x": 5,
+    "y": 146.5771812080536
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "40543C48-21EC-43DE-AE44-687C4C28BB48"
+    },
+    {
+      "class": "text",
+      "id": "7D1F9993-F3F9-4E7B-B810-0B25048A66E6"
+    },
+    {
+      "class": "group",
+      "id": "998ECFAA-8CBB-4194-A0BE-6887AFC6C3A9"
+    },
+    {
+      "class": "text",
+      "id": "89BCE3BA-BEBE-412D-AB91-73EA06B2F11D"
+    }
+  ],
+  "name": "Recipe_Info",
+  "nameIsFixed": true,
+  "originalObjectID": "5A5248B7-77B7-4315-9E71-9BEDD57EBF18",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

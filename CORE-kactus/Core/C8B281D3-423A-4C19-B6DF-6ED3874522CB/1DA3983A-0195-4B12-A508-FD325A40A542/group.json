@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1DA3983A-0195-4B12-A508-FD325A40A542",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 431,
+    "x": 605,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C5211F62-2341-4DEB-9309-98CCC4F3FF45"
+    },
+    {
+      "class": "text",
+      "id": "B2F241BC-AF80-4B00-B65C-1C6E19AAF193"
+    },
+    {
+      "class": "text",
+      "id": "B0BED235-D92A-4F25-9B75-377A23140AB3"
+    },
+    {
+      "class": "rectangle",
+      "id": "0861CDDD-38FB-43D7-9107-D398D646D45A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5000067D-81D0-4BDD-8285-3ADBD7C3DB70"
+    }
+  ],
+  "name": "Tabs Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

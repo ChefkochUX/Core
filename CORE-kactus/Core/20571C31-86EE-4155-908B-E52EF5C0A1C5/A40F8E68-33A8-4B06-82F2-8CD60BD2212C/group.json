@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A40F8E68-33A8-4B06-82F2-8CD60BD2212C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 539,
+    "x": 714,
+    "y": 321
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0FA4FB19-C883-4628-9549-0C4A218116AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "224F0459-619F-4072-BBD6-19130190076B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28FA207A-3635-4533-9B77-A78B6FDD0497"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F07F9889-6F88-46D2-80B3-74F827C0FD22"
+    }
+  ],
+  "name": "Paginierung/desktopP1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "B0DC84A5-7E18-4D4E-A27B-06BE70A8EC26",
+        "version": 1
+      }
+    }
+  }
+}

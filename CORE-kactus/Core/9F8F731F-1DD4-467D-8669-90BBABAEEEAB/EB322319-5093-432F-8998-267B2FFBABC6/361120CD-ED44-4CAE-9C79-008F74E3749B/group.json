@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "361120CD-ED44-4CAE-9C79-008F74E3749B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 204,
+    "width": 173,
+    "x": 0,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "19220750-063A-414A-9E53-55A0835C05A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67C505D3-19F1-4180-9447-D9E2F61A3B1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0707298-D457-46DF-B12D-E808EC387588"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E43ECBD5-5B25-4CFD-BFF2-D1C1700E7ADF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "082723A4-6D20-44EB-B563-13562B0C51B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DDBA210-7814-4808-8E83-00413BB21B91"
+    }
+  ],
+  "name": "Radio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C5992D2F-2123-4920-9663-B4E98ABD119E",
+        "version": 1
+      }
+    }
+  }
+}

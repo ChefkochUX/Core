@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5A4C750-8485-478C-BB74-7C0A977CA0ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 364,
+    "x": 62,
+    "y": 408
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BA3AA05D-2770-4714-A281-74C62735C521"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "562858D1-8A31-45FD-B048-1C1D7505F604"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4207522A-F6AB-4D8F-9C1A-05F363E0116A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE568208-CCC0-44E7-A551-768533017274"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A430FE86-79B0-4E1D-9F4E-38E44C1FFFA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D03B39FA-8F1B-4EAE-A16B-81D8A4E11B0C"
+    }
+  ],
+  "name": "SocialShare M :hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "51DDC87B-F068-40DE-8367-1FA20D9A713F",
+        "version": 1
+      }
+    }
+  }
+}

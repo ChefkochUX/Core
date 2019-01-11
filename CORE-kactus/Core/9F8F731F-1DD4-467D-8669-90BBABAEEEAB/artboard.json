@@ -1,0 +1,200 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F8F731F-1DD4-467D-8669-90BBABAEEEAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3183,
+    "width": 2014,
+    "x": 10341,
+    "y": 404
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      413,
+      1297,
+      61,
+      475,
+      413,
+      824,
+      886,
+      1235,
+      233,
+      88,
+      81,
+      433,
+      440
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EB322319-5093-432F-8998-267B2FFBABC6"
+    },
+    {
+      "class": "group",
+      "id": "A135AC7C-210A-4F0D-9B06-AF1465E7B91D"
+    },
+    {
+      "class": "group",
+      "id": "31EF7D1F-3CB3-4041-93D1-FB0A614CF742"
+    },
+    {
+      "class": "group",
+      "id": "FCC19E19-D04C-4836-97AD-AB12BEED207A"
+    },
+    {
+      "class": "group",
+      "id": "7F8EB0DF-B10D-4C72-822B-F40E2E0473E7"
+    },
+    {
+      "class": "group",
+      "id": "AF1DED5F-C870-4896-AE70-2C7372BE02F8"
+    },
+    {
+      "class": "group",
+      "id": "2F230514-BB1A-422E-BDA8-49C91F68B3A4"
+    },
+    {
+      "class": "group",
+      "id": "0C5B620E-2A06-4090-A48B-08D7632559B0"
+    },
+    {
+      "class": "group",
+      "id": "DD3C3F6A-BCE2-4C09-B030-B3B6A2D7210C"
+    },
+    {
+      "class": "group",
+      "id": "E2265181-009D-40EA-A585-1591E25BC8B5"
+    },
+    {
+      "class": "group",
+      "id": "5B4FE3CB-124F-4DB3-8065-93A31C648F3F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 527,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Forms",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      610,
+      1037,
+      124,
+      154,
+      184,
+      214,
+      244,
+      274,
+      88
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E70099C-EC0B-4509-BE17-8590DB81F1C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 879,
+    "x": 58,
+    "y": 793
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7A0CAA37-3CCE-4724-B256-DCB0C52684E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF650B94-2E93-4CFD-944A-AF2F81B8B572"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78A1731C-F095-40D7-B110-5AB1340F2995"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD738A46-3FC9-481D-B214-19C7A9E369A8"
+    },
+    {
+      "class": "text",
+      "id": "6FCCF6D0-C308-4F21-983B-9371A1CC82B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71B65690-A9F5-4F27-878B-3B55D1DBA7D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01A0C4D2-71DB-4A79-AFC3-D1DBA361D114"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADDF7993-AFA1-4906-BA6B-1573C3009FCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "250FE767-38E4-47B3-88E1-85CE5F9B05C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F436C793-7EE9-4912-9A16-27BDC49EF855"
+    }
+  ],
+  "name": "Hoverstates",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "F4341E43-7102-48A6-89DA-E03674E0A854",
+        "version": 2
+      }
+    }
+  }
+}

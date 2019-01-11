@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9EE7799-FF8F-4D77-9B8D-FDFEB96EC8FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 531,
+    "width": 945,
+    "x": 40,
+    "y": 39
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Videoplayer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FCE840B3-D22B-4E01-939F-7CD86AE16322_symbolID",
+      "value": "401C0C53-CE66-406C-B4CD-8CC79D6AB29E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C5AF701-1CDB-44B7-8F54-41C9AA4F66C0_symbolID",
+      "value": "10FB4C9C-4FEA-4ECD-B6E6-C71A54B0E225"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE4842B9-D3D3-4214-99C7-0F858ACCF426_symbolID",
+      "value": "81D069AB-53BC-47FA-9F02-7B790CA70623"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9C8A2F09-285E-4E99-A55C-941D0DF29453_symbolID",
+      "value": "069BA3F0-0FCF-4348-8753-7D60AC365F1C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FA1238E-8C2C-44E3-BE4B-F75414494FD7_symbolID",
+      "value": "5D8B05E3-32F0-4D43-ABA5-169F025F0E6C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "191AEDC7-D1BC-496C-865A-C80DBC02F072",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "8D20D357-0ECA-41E1-8A37-AEB4F960250C",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

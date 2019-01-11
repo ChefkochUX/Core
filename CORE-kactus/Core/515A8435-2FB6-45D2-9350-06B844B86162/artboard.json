@@ -1,0 +1,200 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "515A8435-2FB6-45D2-9350-06B844B86162",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 916,
+    "width": 960,
+    "x": -2554,
+    "y": 391
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ABAE3041-FD18-4BAA-B682-F0E3FD5FF5E5"
+    },
+    {
+      "class": "text",
+      "id": "4DE3B439-5398-4545-9537-E7A583EE2D27"
+    },
+    {
+      "class": "text",
+      "id": "5FFC75AE-8CC4-42F6-AAD3-6B0D6FCC06FD"
+    },
+    {
+      "class": "text",
+      "id": "2AF2C587-6F5C-4AA0-A6EC-9B6B0100BADD"
+    },
+    {
+      "class": "text",
+      "id": "587FF986-7A76-42A4-AE15-081BE92C5BEA"
+    },
+    {
+      "class": "text",
+      "id": "CB34ABC7-1F0A-4A81-84C6-ABE2F17C9790"
+    },
+    {
+      "class": "text",
+      "id": "C543A4D9-2838-4806-9389-D6AB09D5B63D"
+    },
+    {
+      "class": "text",
+      "id": "8EB4DBC6-9E7A-4CD5-A9E6-76EEE93CE302"
+    },
+    {
+      "class": "group",
+      "id": "F783D686-98E4-41DE-BE22-16BE5385086F"
+    },
+    {
+      "class": "group",
+      "id": "CB3609A6-847C-413F-8EF3-02DABC2455B9"
+    },
+    {
+      "class": "text",
+      "id": "3D244707-B8BC-40F0-812A-172E466A05C6"
+    },
+    {
+      "class": "text",
+      "id": "90FB7517-DC2E-4635-9411-6B40053FB68B"
+    },
+    {
+      "class": "text",
+      "id": "027C2277-BB7D-4B47-AC9A-030FBC46AC77"
+    },
+    {
+      "class": "text",
+      "id": "4A380EA1-E239-4619-B601-B36B304E5AD1"
+    },
+    {
+      "class": "text",
+      "id": "F0605E8C-E14A-40B1-9349-918E68851137"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Fonts XS",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

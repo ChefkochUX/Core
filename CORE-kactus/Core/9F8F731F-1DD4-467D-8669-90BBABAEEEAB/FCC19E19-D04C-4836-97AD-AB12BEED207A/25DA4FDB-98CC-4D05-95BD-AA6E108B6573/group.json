@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "25DA4FDB-98CC-4D05-95BD-AA6E108B6573",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 351,
+    "x": 2,
+    "y": 892
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "19A0F54E-CEBE-4E14-A94E-B09DC46B32E3"
+    },
+    {
+      "class": "text",
+      "id": "65E7DAF7-35ED-46C3-88B7-7DA911E838CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "65D3FE5F-8434-40FE-B296-90B89378864D"
+    },
+    {
+      "class": "text",
+      "id": "3615C101-0CC9-4767-B255-8CBD284C5B2C"
+    },
+    {
+      "class": "text",
+      "id": "8B8D214D-33E3-4916-B151-5F33440C2792"
+    }
+  ],
+  "name": "Input Field Button Light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

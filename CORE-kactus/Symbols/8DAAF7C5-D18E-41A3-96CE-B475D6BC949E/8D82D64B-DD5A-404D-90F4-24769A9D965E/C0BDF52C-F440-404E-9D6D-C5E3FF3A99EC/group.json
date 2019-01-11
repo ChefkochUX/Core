@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0BDF52C-F440-404E-9D6D-C5E3FF3A99EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 286,
+    "x": 17,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A48A4976-3335-4DF4-9B6C-AE6987D48CCD"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D446A1B-AF0C-44A8-8F60-BA4EEEBD55EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "1035D42D-4F84-452E-8650-D6E4A065E660"
+    }
+  ],
+  "name": "Desktop-btn",
+  "nameIsFixed": true,
+  "originalObjectID": "C0BDF52C-F440-404E-9D6D-C5E3FF3A99EC",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F10D2249-1A9E-4A92-B500-A2445AD234E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 136,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B280515B-7F6D-4994-BC94-B7002B8FC26D"
+    },
+    {
+      "class": "rectangle",
+      "id": "0A0C8CDC-1069-4590-9262-E935BDFC7BA1"
+    },
+    {
+      "class": "shapePath",
+      "id": "905E940F-2D65-48B4-99E3-3654174BB401"
+    },
+    {
+      "class": "rectangle",
+      "id": "CACC27F9-28B3-40FE-8C16-01DF4F51B942"
+    },
+    {
+      "class": "group",
+      "id": "91991B99-79A5-4985-95DC-9B9223BEFBF9"
+    }
+  ],
+  "name": "ACT-Card",
+  "nameIsFixed": true,
+  "originalObjectID": "F10D2249-1A9E-4A92-B500-A2445AD234E7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "17D2F408-BB29-4315-A777-67150E8230D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 288,
+    "x": 63,
+    "y": 122
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3380822F-38A0-40E4-BC74-5D6B2559453E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A10D4F5C-EF92-4138-AEB7-1A0F692CC831"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDBD3AE8-9E5E-473A-9A9E-3520602DCBB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FDA7734-9E4A-4C79-9008-8CD5C1D8AE5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B67542C-0F0A-4467-AFCE-9ECCCA6FE8C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F38ED2B1-CDCE-4D16-919C-27FF7B9362DB"
+    }
+  ],
+  "name": "SocailShare XS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "15F0DB16-E598-4A4E-85D4-092E587A8843",
+        "version": 3
+      }
+    }
+  }
+}

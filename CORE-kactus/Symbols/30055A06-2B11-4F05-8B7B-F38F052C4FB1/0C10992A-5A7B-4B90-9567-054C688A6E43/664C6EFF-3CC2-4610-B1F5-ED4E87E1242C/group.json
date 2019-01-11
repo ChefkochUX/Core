@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "664C6EFF-3CC2-4610-B1F5-ED4E87E1242C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "14091D0E-9F3E-48C3-9142-24B3E4392DD8"
+    },
+    {
+      "class": "group",
+      "id": "7D8E4394-41C2-44A4-8738-E8B2018BFE96"
+    },
+    {
+      "class": "group",
+      "id": "EDA6D3B0-D9C3-49C4-AF49-D16F057CEF05"
+    },
+    {
+      "class": "group",
+      "id": "BBFEE597-E37C-4080-81A7-1C43A693A90C"
+    }
+  ],
+  "name": "GreenHeader XS MC open Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "664C6EFF-3CC2-4610-B1F5-ED4E87E1242C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

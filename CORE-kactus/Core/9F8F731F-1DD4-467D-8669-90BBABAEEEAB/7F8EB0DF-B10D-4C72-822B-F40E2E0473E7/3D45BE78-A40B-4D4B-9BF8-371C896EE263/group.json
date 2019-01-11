@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D45BE78-A40B-4D4B-9BF8-371C896EE263",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 351,
+    "x": 0,
+    "y": 828
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "684CFAC0-98A3-4596-B97F-2F8AB1D19AC6"
+    },
+    {
+      "class": "text",
+      "id": "C67E1224-9AA1-40ED-9F4C-E470F1123E5D"
+    },
+    {
+      "class": "text",
+      "id": "5C0FEFB8-E4C9-4241-9074-38C4CCF5D50F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4EF88D57-364C-43A3-9244-18DCA43060EF"
+    },
+    {
+      "class": "text",
+      "id": "A75CDB72-D495-4EB2-90E4-A1D3AD639FBD"
+    }
+  ],
+  "name": "Input Field Button Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

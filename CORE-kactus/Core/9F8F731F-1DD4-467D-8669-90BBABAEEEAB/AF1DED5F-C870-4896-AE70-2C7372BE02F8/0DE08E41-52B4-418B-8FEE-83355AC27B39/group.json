@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0DE08E41-52B4-418B-8FEE-83355AC27B39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 351,
+    "x": 1,
+    "y": 972
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "802C34C8-2795-4514-999A-9C458E1278CD"
+    },
+    {
+      "class": "rectangle",
+      "id": "04C56F0D-E23E-4FA5-B9C8-75BF419A719D"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF505013-825B-4FC5-90A9-557C3CFD2F20"
+    },
+    {
+      "class": "text",
+      "id": "8216F7A7-F561-43C5-BE4F-27EA32936C00"
+    },
+    {
+      "class": "text",
+      "id": "BB5CEDFF-F3F1-4FEF-9747-8F65D99F5A1E"
+    }
+  ],
+  "name": "Input Field Button 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

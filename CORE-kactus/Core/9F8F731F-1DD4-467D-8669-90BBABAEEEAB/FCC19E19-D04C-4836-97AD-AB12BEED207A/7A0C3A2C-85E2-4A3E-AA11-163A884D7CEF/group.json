@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A0C3A2C-85E2-4A3E-AA11-163A884D7CEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 350,
+    "x": 1,
+    "y": 283
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1CE6AC8E-F7F8-4DA1-82F1-1D6ECA1C01D6"
+    },
+    {
+      "class": "text",
+      "id": "E4AEC12E-13A7-434C-98B7-8A8DD645E45D"
+    },
+    {
+      "class": "text",
+      "id": "B92F03FB-BD11-4997-88EC-03552B8C00B0"
+    },
+    {
+      "class": "text",
+      "id": "E03E34D1-BCCD-46E1-8DBA-265C5106E9B5"
+    }
+  ],
+  "name": "Input Field Icon Left error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BBEC450-6AE4-4EFC-837D-F2B694956177",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 220,
+    "x": 4.999999999999998,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "307BD070-41B6-47B0-B0F1-BAEF7C2D13DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "B9DA2EBC-3107-4AAE-A421-B74DCE1BE279"
+    },
+    {
+      "class": "shapePath",
+      "id": "703161D4-CE45-41F1-9E79-5D3739080853"
+    },
+    {
+      "class": "rectangle",
+      "id": "F8E7D284-F5F7-45D4-B322-B14F705F7565"
+    },
+    {
+      "class": "group",
+      "id": "5A5248B7-77B7-4315-9E71-9BEDD57EBF18"
+    }
+  ],
+  "name": "ACT-Card",
+  "nameIsFixed": true,
+  "originalObjectID": "1BBEC450-6AE4-4EFC-837D-F2B694956177",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

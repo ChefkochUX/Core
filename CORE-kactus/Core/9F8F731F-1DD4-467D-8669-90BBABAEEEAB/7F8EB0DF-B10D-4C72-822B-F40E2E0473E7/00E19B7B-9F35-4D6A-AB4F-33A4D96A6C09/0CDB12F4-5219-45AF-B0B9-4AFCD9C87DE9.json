@@ -1,0 +1,132 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.231372549,
+            "green": 0.231372549,
+            "red": 0.2509803922
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue",
+              "size": 13
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
+            "tabStops": [
+            ]
+          }
+        },
+        "length": 2617,
+        "location": 0
+      }
+    ],
+    "string": "Hello!\nFor a time I worked in a convenience store as a clerk and cook and I used a… \ne thin bony pieces. This gives the thick meaty pieces more time to cook. They get the hottest oil in the pot to start off the cooking process. The deep fryer is on a timer and part way through the cooking process the timer sets off an alarm which notifies you that it’s time to stir the chicken, so it gets all sides cooked evenly, even the sides touching when first put in the fryer. After stirring the chicken it cooks until the end of cooking cycle alarm goes off. Then the pot elevator will automatically lift the cooking basket out of the hot oil, allowing the chicken to drip off the excess oil. \n\nThe deep fryer also cooks French fried potatoes. After cutting the potatoes into the elongated cube shape in a cutter, the fries are battered, dipped and battered again. They then can be gently lowered in hands full, into the boiling oil. The cooking is again controlled by a timer, which sounds when the cooking cycle has completed.  After 4 cooks the oil in the fryer needs to be filtered to clean it for future cooking cycles. Another alarm indicates when oil filtering needs to occur.  The heat on the oil is turned off, so the oil can cool down enough to work with. The cooking basket is raised and removed from the fryer. A valve is turned to allow the oil to drain down into the filtering drawer. When the oil has drained the empty oil reservoir is brushed, including the heating coil element, to remove anything sticking to their surfaces. A pump is turned on which circulates the oil repeatedly through the filter. The filtering can take place for 10 or 15 minutes, depending how dark the oil appears in color. When the oil has become lighter in color it is pumped back up to the oil reservoir, after the valve at the bottom of the pot has been closed. The heating element is turned on and the oil is brought back up to cooking temperature. The unpleasant part is scooping out the sludge at the bottom of the filter drawer. Then the cleaned filter is dusted with a special powder, put back in its place under the fryer pot, and all is ready to go again.  Yes the fryer does most of the cooking for you but watch out for the hot oil when loading the food into the cooking basket. Even wearing rubber gloves won’t stop the oil from burning you, should it splash on your hands as the food drops into the hot oil. The secret is to be brave and gutsy. Get the food close to the oil before you drop it in. That way the splash is really small, and doesn’t jump up to fry your wrist. \n\nHappy cooking. Cook, but don’t be cooked."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CDB12F4-5219-45AF-B0B9-4AFCD9C87DE9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 319,
+    "x": 9,
+    "y": 23
+  },
+  "glyphBounds": "{{0, 0}, {10670, 937}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Hello! For a time I",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.231372549,
+          "green": 0.231372549,
+          "red": 0.2509803922
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue",
+            "size": 13
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18,
+          "tabStops": [
+          ]
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "cooking",
+          "type": "body"
+        },
+        "title": "Cooking"
+      }
+    }
+  }
+}

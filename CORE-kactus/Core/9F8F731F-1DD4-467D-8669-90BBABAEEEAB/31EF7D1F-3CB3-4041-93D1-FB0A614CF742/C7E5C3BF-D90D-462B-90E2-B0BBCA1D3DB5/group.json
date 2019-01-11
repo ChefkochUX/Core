@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7E5C3BF-D90D-462B-90E2-B0BBCA1D3DB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 351,
+    "x": 0,
+    "y": 765
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E63B9BC7-5CED-458B-BCAE-9913162BDA94"
+    },
+    {
+      "class": "text",
+      "id": "E188EF0C-FC8D-495B-9883-6F3C01B6D2F5"
+    },
+    {
+      "class": "text",
+      "id": "193DDE7D-F1B9-4E90-8D92-864806279836"
+    },
+    {
+      "class": "rectangle",
+      "id": "5876A2B2-CB7B-4EBC-9CFD-B3757B2A0F9C"
+    },
+    {
+      "class": "text",
+      "id": "53B9DC7D-D548-4EB2-A55B-01E795CCC380"
+    }
+  ],
+  "name": "Input Field Button Fill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

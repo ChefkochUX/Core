@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D4035A2E-E954-4FEB-8480-54A57BDCF8FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 139,
+    "width": 350,
+    "x": 1,
+    "y": 1224
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E232BF53-0FA2-49B0-9ED8-3D9F17D80D34"
+    },
+    {
+      "class": "text",
+      "id": "557A55C1-97CB-40E2-8ABE-3860DA4A5921"
+    },
+    {
+      "class": "shapePath",
+      "id": "29EC4CD4-6958-45B7-9972-0D57C1C6ED20"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD0DBA38-7858-48C6-929B-5705ABA41C74"
+    }
+  ],
+  "name": "Freitextfeld",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

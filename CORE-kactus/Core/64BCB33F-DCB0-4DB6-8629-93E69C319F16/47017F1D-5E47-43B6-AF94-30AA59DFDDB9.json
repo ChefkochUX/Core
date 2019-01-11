@@ -1,0 +1,111 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "47017F1D-5E47-43B6-AF94-30AA59DFDDB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 460,
+    "width": 460,
+    "x": 280,
+    "y": 53
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Action-card Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "24370E4B-F333-4E8C-B64E-351D52371237/F50CD350-2516-4A75-9195-518395944365_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "24370E4B-F333-4E8C-B64E-351D52371237/7E3B510C-B4BF-46EB-B4C7-8D31AF2B2DFC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3db7ca5038392bb7e16947580b865f6d0e280297.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B0D2B1F8-B7CF-431D-98FA-F746B674FBEC_stringValue",
+      "value": "29.04.2016"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "90AA4F03-E62F-4F26-90DD-9FAB76D3D62F_stringValue",
+      "value": "Chefkoch hat ein Rezept empfohlen"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "907F99EA-9E3A-4126-9258-D4302A1AF812_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0774368c21e384877c9868566f2033adc5b5557b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F67AA021-1AC5-4E79-8097-9F8A0DD6EB9E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 460,
+            "enabled": 1,
+            "modelID": "constraint_b5fe1c0f-3177-4471-a816-2c1c97e6f308",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 460
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ce3e17f7-374c-4e70-8b57-5ec1733ef9d9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

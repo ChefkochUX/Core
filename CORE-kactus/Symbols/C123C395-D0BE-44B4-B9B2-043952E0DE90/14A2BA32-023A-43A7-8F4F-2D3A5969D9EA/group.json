@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14A2BA32-023A-43A7-8F4F-2D3A5969D9EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 358.0000000000001,
+    "x": -8.881784197001256e-16,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "36992916-EA4B-4B46-B80E-04E0C66F74FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C7498E0-757D-4D32-8937-166D8FC6F750"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA25306C-061E-4BDA-834A-9C31F91464D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56D47D6C-AC59-45B7-BDAE-AFD218E8F526"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4E9FFBB-175F-42DD-A648-909B5EEF1A43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5921F3C5-13F5-40E5-A957-30E60B5EA9CC"
+    }
+  ],
+  "name": "SocialFollow",
+  "nameIsFixed": true,
+  "originalObjectID": "14A2BA32-023A-43A7-8F4F-2D3A5969D9EA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "D6A0A203-3ADB-4D3B-9C6E-7DA753BE5B41",
+        "version": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A400A387-C5D0-432A-B452-303C5D44A677",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 351,
+    "x": 0,
+    "y": 891
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "211BE19A-DE76-456C-A008-97FB864C1EF1"
+    },
+    {
+      "class": "text",
+      "id": "64407911-A383-47AC-A4D3-8194838C615C"
+    },
+    {
+      "class": "rectangle",
+      "id": "28C8058B-0562-493C-9915-4EAF6D0E4976"
+    },
+    {
+      "class": "text",
+      "id": "4CBE8F02-DAF3-47EE-930A-189F32C1D3EE"
+    },
+    {
+      "class": "text",
+      "id": "6CC6EA5C-2201-4786-942E-8E6C7AD25E71"
+    }
+  ],
+  "name": "Input Field Button Light Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

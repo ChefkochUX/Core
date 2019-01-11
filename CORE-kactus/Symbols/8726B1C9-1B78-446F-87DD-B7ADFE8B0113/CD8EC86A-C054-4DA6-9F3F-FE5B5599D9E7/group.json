@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD8EC86A-C054-4DA6-9F3F-FE5B5599D9E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 136,
+    "x": 4.999999999999999,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F10D2249-1A9E-4A92-B500-A2445AD234E7"
+    },
+    {
+      "class": "group",
+      "id": "02128759-0E1B-4E2E-A365-FE55CED71D12"
+    },
+    {
+      "class": "group",
+      "id": "3A4A977A-1AD9-4858-A44B-046E1E516F45"
+    }
+  ],
+  "name": "Rec-tile_small",
+  "nameIsFixed": false,
+  "originalObjectID": "CD8EC86A-C054-4DA6-9F3F-FE5B5599D9E7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

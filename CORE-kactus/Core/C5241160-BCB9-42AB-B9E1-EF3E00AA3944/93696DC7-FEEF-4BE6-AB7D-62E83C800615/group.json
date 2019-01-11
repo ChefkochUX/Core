@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "93696DC7-FEEF-4BE6-AB7D-62E83C800615",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 187,
+    "x": 1304,
+    "y": 641
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "B1353480-B446-4272-8DAC-7F1773E79DD8"
+    },
+    {
+      "class": "oval",
+      "id": "7F86B072-624E-4628-8769-64E51BE008E2"
+    },
+    {
+      "class": "text",
+      "id": "5B8A91F7-3444-465F-8D3D-6ADB68D1ED9A"
+    },
+    {
+      "class": "text",
+      "id": "9E98AEDC-C692-4251-AC47-82A469D5A3D1"
+    }
+  ],
+  "name": "Position Navigation Bullents + Arrows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6F39B22-A9AB-4BFB-918C-01AAAEFAF471",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 351,
+    "x": 0,
+    "y": 909
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A96A190E-4353-4EFE-A9F6-6653DC79382C"
+    },
+    {
+      "class": "text",
+      "id": "B64CAF68-4C05-434E-81FA-65CA53371D6D"
+    },
+    {
+      "class": "rectangle",
+      "id": "12D4E910-430A-49F8-9B56-7662C5F59564"
+    },
+    {
+      "class": "text",
+      "id": "CFAFD22E-37FD-42BA-A0C2-B163E5FADB84"
+    }
+  ],
+  "name": "Input Field Button Light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

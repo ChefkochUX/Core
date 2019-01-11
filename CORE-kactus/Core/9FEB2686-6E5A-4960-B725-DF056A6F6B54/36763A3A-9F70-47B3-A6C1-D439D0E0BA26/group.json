@@ -1,0 +1,115 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "36763A3A-9F70-47B3-A6C1-D439D0E0BA26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 522,
+    "width": 460,
+    "x": 736,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DD683E5D-4494-4277-BE53-4FA0C48BAF29"
+    },
+    {
+      "class": "text",
+      "id": "BD6A4C88-1102-4774-856E-F4C4948A4935"
+    },
+    {
+      "class": "rectangle",
+      "id": "3C08CAAE-B021-4ECA-A1CD-4751B6D0A1E1"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E6E5B07-B723-407F-AFCD-DFCCC908BA20"
+    },
+    {
+      "class": "oval",
+      "id": "DB4EE202-ED06-44D2-86BB-9B383B6FE5F4"
+    },
+    {
+      "class": "oval",
+      "id": "5DF0F2F9-6951-4446-8E32-09996CE29AB2"
+    },
+    {
+      "class": "group",
+      "id": "83C537FF-DEDF-4C02-BCED-4BFAD19A0715"
+    },
+    {
+      "class": "text",
+      "id": "070F3231-5CD1-43F9-A4FD-241F4DF66ED7"
+    },
+    {
+      "class": "text",
+      "id": "8FD9BCDB-2F70-4D97-9F83-6689074BAE95"
+    },
+    {
+      "class": "text",
+      "id": "2BD50D1A-CA8D-4AAE-9D18-F4D33A48CD3D"
+    },
+    {
+      "class": "text",
+      "id": "EE15061F-D866-43E3-A0A5-39938C4125EC"
+    },
+    {
+      "class": "text",
+      "id": "E9895697-C60D-4686-B78C-B49F162D7CF5"
+    },
+    {
+      "class": "shapePath",
+      "id": "002D1DD8-028C-414E-852A-D36B065546D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "6617E142-F377-4CC3-82DA-7BC10C89424F"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB697A0F-3256-4243-A070-A00BAEC63D8A"
+    }
+  ],
+  "name": "hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

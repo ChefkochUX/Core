@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7384EC9-3916-4C2B-85B7-771F3E2036FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 351,
+    "x": 1,
+    "y": 1098
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B63A60EA-0A92-43A8-9203-E166E9737548"
+    },
+    {
+      "class": "text",
+      "id": "363BB9F5-C9EB-45DD-8146-CB67A0E5C64A"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF709918-B84A-488F-BC65-C2F677C8385F"
+    },
+    {
+      "class": "text",
+      "id": "1A208469-1770-44B6-A980-1E9746D105D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "383250B9-82A6-43A1-A969-93902205837C"
+    }
+  ],
+  "name": "Input Field extra Dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

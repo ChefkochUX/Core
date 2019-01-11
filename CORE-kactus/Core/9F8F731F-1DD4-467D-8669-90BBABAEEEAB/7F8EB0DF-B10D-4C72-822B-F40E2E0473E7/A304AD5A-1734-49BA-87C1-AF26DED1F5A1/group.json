@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A304AD5A-1734-49BA-87C1-AF26DED1F5A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 350,
+    "x": 0,
+    "y": 346
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "495BCB6F-E8C1-4B33-B7D6-D85F33119EE4"
+    },
+    {
+      "class": "group",
+      "id": "D3BD6785-32A5-422A-A7DA-6FAFCDCEAE5A"
+    },
+    {
+      "class": "text",
+      "id": "BE0799C2-1FF2-4D56-8E16-4FC31A7F1E2A"
+    },
+    {
+      "class": "text",
+      "id": "ACCE3935-95A1-4C74-A82B-675450FE4DED"
+    },
+    {
+      "class": "text",
+      "id": "CE39C8BC-F63B-4437-9F3F-91ADA193822D"
+    }
+  ],
+  "name": "Input Field PW Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
