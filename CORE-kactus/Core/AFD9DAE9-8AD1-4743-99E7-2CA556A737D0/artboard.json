@@ -196,6 +196,10 @@
     {
       "class": "text",
       "id": "AB78BD6D-97EC-4CAD-89ED-BCE212245F40"
+    },
+    {
+      "class": "rectangle",
+      "id": "82393D0A-6B07-49C0-89F1-06A97F3F8C59"
     }
   ],
   "layout": {
