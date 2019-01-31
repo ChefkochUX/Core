@@ -107,6 +107,10 @@
     {
       "class": "rectangle",
       "id": "177663B2-3D14-47FF-90BD-9D58FF7E56BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "A13F3197-2FCE-4CC4-BA42-9021571F2171"
     }
   ],
   "name": "White Space",
